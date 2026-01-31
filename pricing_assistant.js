@@ -2,7 +2,7 @@
 
 // Step 1: Initialize Variables
 
-let productName = "Wireless Mouse";
+let productName = "Wireless Mouse logitech pro";
 
 let costPerUnit = 12.50;
 let basePrice = 19.99;
